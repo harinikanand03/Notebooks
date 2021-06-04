@@ -4,10 +4,11 @@ Name: Harini Anand
 
 Title: Recycling Waste Image Recognition
 
-Files: 
+Content: 
 
 A. ImageAugmentation.ipynb
 
 B. RecyclingImageRecognition.ipynb
 
+C. ios app with the TFlite model
 
