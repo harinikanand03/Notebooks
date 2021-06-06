@@ -12,3 +12,4 @@ B. RecyclingImageRecognition.ipynb
 
 C. ios app with the TFlite model
 
+D. Google Image Scraper Utility
